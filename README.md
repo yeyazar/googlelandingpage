@@ -1,2 +1,3 @@
-# googlelandingpage
-Google Landing Page
+# Google Landing Page
+
+This is Google's main search page
